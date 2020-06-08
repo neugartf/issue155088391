@@ -1,0 +1,4 @@
+include ':feature'
+include ':design'
+include ':app'
+rootProject.name = "issue155088391"
